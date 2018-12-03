@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856638262353",
+    "firebase_url": "https://duly-b17b0.firebaseio.com",
+    "project_id": "duly-b17b0",
+    "storage_bucket": "duly-b17b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856638262353:android:052e8d6b2e787107",
+        "android_client_info": {
+          "package_name": "developer.com.krishna.duly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856638262353-5d6sdo95mjnl5a5bi7mjtu2fk5ipq6v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.com.krishna.duly",
+            "certificate_hash": "e077da9d020899d9f3bc7c023de783fe8dba31f2"
+          }
+        },
+        {
+          "client_id": "856638262353-1vafil4mq1hqjbnv0rnulhpmec9ta9bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pG2CTdkJWx5oyIuLow8trRmJ5yGcSEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856638262353-1vafil4mq1hqjbnv0rnulhpmec9ta9bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
